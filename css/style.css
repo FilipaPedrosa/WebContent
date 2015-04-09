@@ -1,0 +1,30 @@
+.header{
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #b0e0e6;
+    color : white;
+}
+
+#title{
+	position: absolute;
+	top: 130px;
+	left: 720px;
+	color: white;
+	font: normal;
+	font-family: "Impact";
+  	font-size: 80px;
+}
+img.displayed {
+	
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+     }
+    
+#nav{
+	color: black;
+	
+	
+}
